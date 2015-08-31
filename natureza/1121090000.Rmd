@@ -1,0 +1,22 @@
+---
+RECEITA_COD: 1121090000
+RECEITA_DESC: TAXA DE LICENCIAMENTO PARA USO OU OCUPACAO DA FAIXA DE DOMINIO DAS RODOVIAS - TFDR
+---
+# INTERPRETAÇÃO
+Registra o valor da arrecadação de receita de taxa de licenciamento para uso ou ocupação da faixa de domínio das rodovias (TFDR) devida pelo exercício regular do poder de polícia do DER-MG relativo à fiscalização e ao controle do uso ou ocupação da faixa de domínio de rodovia estadual ou federal delegada ao Estado, inclusive a que for objeto de concessão, visando a garantir a segurança do trânsito rodoviário e a preservação do meio ambiente e do patrimônio público.
+
+# FATO GERADOR
+O fato gerador da TFDR ocorre no início do uso ou ocupação e anualmente, no dia 1º de janeiro, relativamente aos exercícios posteriores ao início do uso ou ocupação nas seguintes hipóteses: realização de análise ou parecer técnico sobre projeto para obtenção de autorização de acesso a propriedade lindeira à faixa de domínio; ocupação de faixa transversal ou longitudinal ou de área para a instalação de linha ou rede de transmissão ou distribuição de energia elétrica ou de comunicação, inclusive cabo de fibra ótica ou assemelhados e base para antena de comunicação, de correia transportadora de minério e afins, de rede de adução, emissão ou distribuição de água e esgoto, de gasoduto, oleoduto e tubulações diversas; instalação de dispositivo visual por qualquer meio físico, tal como "outdoor", placa, painel, letreiro, cartaz ou pintura nas faixas de domínio; ocupação pontual na faixa de domínio para instalação de torre ou antena.
+
+# DESTINAÇÃO LEGAL
+A receita proveniente da arrecadação da TFDR é vinculada ao Fundo Estadual de Desenvolvimento de Transportes (FUNTRANS), gerido pelo DER-MG, especialmente para custear o exercício do poder de polícia relativo à fiscalização e ao controle do uso ou ocupação da faixa de domínio de rodovia (§ 2º do art. 120-A e art. 120-E da Lei Estadual 6.763/1975 e inciso XVI do art. 3º da Lei Estadual 13.452/200).
+
+# BASE LEGAL
+- Lei Estadual nº 14.938, de 29 de dezembro de 2003 (Lei de Criação)
+- Lei Estadual nº 6.763, de 26 de dezembro de 1975 (Código Tributário Estadual)
+- Lei Estadual nº 13.452, de 12 de janeiro de 2000 (Cria o FUNTRANS)
+- Decreto Estadual nº 43.932, de 21 de dezembro de 2004 (Regulamento da TFDR)
+
+
+# INFORMAÇÕES GERENCIAIS
+Base física sobre a qual assenta uma rodovia, constituída pelas pistas de rolamento, canteiros, obras-de-arte, acostamentos, sinalização e faixa lateral de segurança, até o alinhamento das cercas que separam a estrada dos imóveis marginais ou da faixa de recuo. (Glossário de Termos Técnicos Rodoviários - DNER)
