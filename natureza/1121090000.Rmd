@@ -20,3 +20,5 @@ A receita proveniente da arrecadação da TFDR é vinculada ao Fundo Estadual de
 
 # INFORMAÇÕES GERENCIAIS
 Base física sobre a qual assenta uma rodovia, constituída pelas pistas de rolamento, canteiros, obras-de-arte, acostamentos, sinalização e faixa lateral de segurança, até o alinhamento das cercas que separam a estrada dos imóveis marginais ou da faixa de recuo. (Glossário de Termos Técnicos Rodoviários - DNER)
+
+Esse recurso vai ser arrecadado.
