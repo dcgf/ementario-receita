@@ -7,10 +7,13 @@ Bem vindo ao repositório do ementário das receitas tributárias do governo do 
 
 - **Fato gerador**: 
     Fato ou conjunto de fatos que originam a obrigação jurídica de pagamento do tributo.
+
 - **Destinação legal**: 
     Identificação de vinculações da aplicação dos recursos oriundos de determinado tipo de tributo.
+
 - **Base legal**: 
     Identificação do conjunto de leis que formam a base de amparo legal do tributo.
+
 - **Informações gerenciais**: 
     Informações adicionais que caracterizam determinada receita, como pareceres ou instruções legais específicas.
 
